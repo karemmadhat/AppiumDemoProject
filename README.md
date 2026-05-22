@@ -1,3 +1,6 @@
+
+
+📱 MyDemoApp Automation Project
 ![Java](https://img.shields.io/badge/Java-23-red)
 ![TestNG](https://img.shields.io/badge/TestNG-7.12.0-green)
 ![Appium](https://img.shields.io/badge/Appium-10.1.1-pink)
